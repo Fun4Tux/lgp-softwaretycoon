@@ -41,7 +41,7 @@
 </tr>
 <tr>
 <td>Updates</td>
-<td><a href="http://updates.fun4tux.ch/softwaretycoon/">Updates f&uuml;r Software Tycoon</a></td>
+<td><a href="http://updatefiles.linuxgamepublishing.com/softwaretycoon/">Updates f&uuml;r Software Tycoon</a></td>
 </tr>
 <tr>
 <td>Zustand<br /></td>
