@@ -1,0 +1,81 @@
+==Preview==
+<p>In the early eighties, software developers shot up all over the world like toadstools. It was the birth of a new industry. Computers and consoles began a triumphant advance into people`s homes and spread like wildfire.</p>
+
+==Text==
+<p><strong>About the Game</strong></p>
+<p>In the early eighties, software developers shot up all over the world like toadstools. It was the birth of a new industry. Computers and consoles began a triumphant advance into people`s homes and spread like wildfire. <br /><br />Software, and particularly computer games, sold like hot cakes. This development began with simple games such as `Pong`, but soon progressed to much more complex programs which created their own market, a battlefield from the very beginning. <br /><br />These early days of the industry are the background for the company you yourself are about to found. Armed with a small start capital, you set out in 1982 to conquer the games market. Develop your own game concepts, create a team and conquer the world. But never forget that you have rivals for the dominance you are seeking - though they do say competition is good for business ...</p>
+<hr />
+<p><strong>General information</strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Age rating<br /></td>
+<td>6+</td>
+</tr>
+<tr>
+<td>Language of the dvd-box</td>
+<td>English</td>
+</tr>
+<tr>
+<td>Language of the manual</td>
+<td>English<br /></td>
+</tr>
+<tr>
+<td>Language of the game</td>
+<td>English, German<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td>not available</td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/softwaretycoon/">Updates for Software Tycoon</a></td>
+</tr>
+<tr>
+<td>Condition</td>
+<td>Brand new</td>
+</tr>
+<tr>
+<td>Content</td>
+<td>CD-Rom and manual in a DVD box</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong>Minimum Requirements<br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Processor<br /></td>
+<td>300 MHz x86 Processor</td>
+</tr>
+<tr>
+<td>Graphics Card<br /></td>
+<td>Graphics card with 8 MB video memory<br /></td>
+</tr>
+<tr>
+<td>Memory</td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Disc Space<br /></td>
+<td>64 MB<br /></td>
+</tr>
+<tr>
+<td>Sound Card</td>
+<td>OSS compatible</td>
+</tr>
+<tr>
+<td>Optical Drive</td>
+<td>4x CD-Rom</td>
+</tr>
+<tr>
+<td>Operating System<br /></td>
+<td>
+<p>GNU/Linux x86 system (x64/amd64 systems through 32 bit emulation layer only), 2.2.x or better Linux kernel with glibc-2.1 or later and X-Windows (XFree86 3.3.x or later)</p>
+</td>
+</tr>
+</tbody>
+</table>

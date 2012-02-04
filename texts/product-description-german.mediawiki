@@ -1,0 +1,92 @@
+==Preview==
+<p>Wir schreiben das Jahr 1980. Kleine Hersteller von Computerspielen schie&szlig;en wie Pilze aus dem Boden. Und auch du wagst den riskanten Schritt in diese unbekannte Branche und gr&uuml;ndest deine eigene Spielefirma.</p>
+
+==Text==
+<p><strong><strong><strong><strong>Das Spiel</strong></strong></strong><br /></strong></p>
+<p>Wir schreiben das Jahr 1980. Kleine Hersteller von Computerspielen schie&szlig;en wie Pilze aus dem Boden. Und auch du wagst den riskanten Schritt in diese unbekannte Branche und gr&uuml;ndest deine eigene Spielefirma.</p>
+<p>Alles liegt nun in deiner Hand - von dem Entwurf eines Konzeptes f&uuml;r das perfekte Spiel bis hin zur Produktion, dem Verkauf und dem Marketing. Stellst du die richtigen Mitarbeiter ein und schaffst es so, auf der ganzen Welt Fu&szlig; zu fassen? Bist du in der Lage, die neu aufkommenden Technologien zu nutzen und den wachsenden Anforderungen des Marktes Rechnung zu tragen? Und selbst wenn du all das Managen kannst, als sei es gar nichts - Vorsicht ist dennoch angebracht! Deine Gegner sind vielleicht ebenso gerissen wie du und werden dir mit allen Mitteln durch fiese Sabotageaktionen Steine (oder besser: Viren) in den Weg legen...</p>
+<p>Software Tycoon ist die perfekte Simulation f&uuml;r Leute, die davon tr&auml;umen, ihr Hobby zum Beruf zu machen. Durch breite Interaktionsm&ouml;glichkeiten, verschiedene Szenarien und einem Schuss Satire auf die Software-Branche ist dieses Spiel eine ganz neue Herausforderung.</p>
+<p><strong>Features</strong></p>
+<ul>
+<li>Adventure&auml;hnliche Inventarbedienung</li>
+<li>horizontal scrollende Locations</li>
+<li>verschiedene Geb&auml;ude</li>
+<li>Stereo Sound Effekte</li>
+<li>Sprachausgabe und Soundtrack</li>
+</ul>
+<p></p>
+<hr />
+<p><strong><strong><strong><strong>Allgemeine Informationen zum Spiel</strong></strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Altersfreigabe</td>
+<td>6+</td>
+</tr>
+<tr>
+<td>Sprache Verpackung<br /></td>
+<td>Englisch</td>
+</tr>
+<tr>
+<td>Sprache Handbuch<br /></td>
+<td>Englisch<br /></td>
+</tr>
+<tr>
+<td>Sprache Spiel<br /></td>
+<td>Englisch, Deutsch<br /></td>
+</tr>
+<tr>
+<td>Demoversion</td>
+<td>keine</td>
+</tr>
+<tr>
+<td>Updates</td>
+<td><a href="http://updates.fun4tux.ch/softwaretycoon/">Updates f&uuml;r Software Tycoon</a></td>
+</tr>
+<tr>
+<td>Zustand<br /></td>
+<td>fabrikneu<br /></td>
+</tr>
+<tr>
+<td>Lieferumfang<br /></td>
+<td>CD-Rom und Anleitung in DVD-H&uuml;lle</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<hr />
+<p><strong><strong><strong><strong>Minimale Systemanforderungen</strong></strong></strong><br /></strong></p>
+<table border="0">
+<tbody>
+<tr>
+<td>Prozessor<br /></td>
+<td>300 MHz x86 Prozessor</td>
+</tr>
+<tr>
+<td>Grafikkarte<br /></td>
+<td>Grafikkarte mit 8 MB Ram, funktionsf&auml;higen Treibern<br /></td>
+</tr>
+<tr>
+<td>Hauptspeicher<br /></td>
+<td>64 MB</td>
+</tr>
+<tr>
+<td>Festplattenspeicher<br /></td>
+<td>64 MB<br /></td>
+</tr>
+<tr>
+<td>Soundkarte</td>
+<td>ALSA oder OSS kompatibel<br /></td>
+</tr>
+<tr>
+<td>Laufwerk<br /></td>
+<td>4x CD-Rom</td>
+</tr>
+<tr>
+<td>Betriebssystem<br /></td>
+<td>
+<p>GNU/Linux x86 System (x64/amd64 Systeme funktionieren nur mit einem 32 bit Emulationslayer), 2.2.x oder neuerer Linuxkernel, glibc-2.1+, X-Windows (XFree86 3.3.x oder neuer)</p>
+</td>
+</tr>
+</tbody>
+</table>
